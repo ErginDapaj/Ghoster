@@ -1,0 +1,17 @@
+{
+  "name": "ghoster",
+  "version": "1.0.0",
+  "description": "Scary little thing",
+  "main": "ghoster.js",
+  "scripts": {
+    "test": "node ghoster.js"
+  },
+  "keywords": [
+    "Ghoster"
+  ],
+  "author": "Grainger#5445",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree/nut-js": "^1.7.0"
+  }
+}
